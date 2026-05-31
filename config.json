@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggereelete",
+        "uuid": 751827,
+        "checksum": "o5zh94"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
